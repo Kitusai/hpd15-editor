@@ -25,6 +25,7 @@ The editor **never writes to the HPD-15 user memories**: it only uses the tempor
 
 - macOS 12 or later, Intel or Apple Silicon.
 - A MIDI interface connected to the HPD-15 MIDI IN and OUT (developed with a Roland UM-ONE).
+  With a UM-ONE, set its physical switch to **TAB** (class-compliant mode on macOS), not COMP.
 - HPD-15 Device ID 17 (factory setting). Recommended: SYSTEM > UTILITY > Seq Sync = Int, SYSTEM > MIDI > Soft Thru = OFF.
 - To build: Xcode or just the Command Line Tools (`xcode-select --install`).
 
