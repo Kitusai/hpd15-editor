@@ -1,0 +1,7637 @@
+{
+ "source": "Roland HPD-15 Owner's Manual p. 90-94. Verified on the device (2026-11-14): instrument value 0 = L01; Pad Set instrument value = list number (0 = none).",
+ "instruments": [
+  {
+   "value": 0,
+   "code": "L01",
+   "name": "Bongo Hi",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 1,
+   "code": "L02",
+   "name": "Bongo Hi /H",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 2,
+   "code": "L03",
+   "name": "Bongo Hi /T",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 3,
+   "code": "L04",
+   "name": "Bongo Hi Cls",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 4,
+   "code": "L05",
+   "name": "Bng HiHndSlp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 5,
+   "code": "L06",
+   "name": "Bongo Lo",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 6,
+   "code": "L07",
+   "name": "R-8 Bongo Hi",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 7,
+   "code": "L08",
+   "name": "R-8 Bongo Lo",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 8,
+   "code": "L09",
+   "name": "Conga Hi /H",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 9,
+   "code": "L10",
+   "name": "Conga Hi /T",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 10,
+   "code": "L11",
+   "name": "Conga Hi",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 11,
+   "code": "L12",
+   "name": "CongaHiOpSlp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 12,
+   "code": "L13",
+   "name": "Conga Hi Cls",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 13,
+   "code": "L14",
+   "name": "CongaHiClSlp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 14,
+   "code": "L15",
+   "name": "Conga HiHeel",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 15,
+   "code": "L16",
+   "name": "Conga Hi Toe",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 16,
+   "code": "L17",
+   "name": "Conga HiBass",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 17,
+   "code": "L18",
+   "name": "Conga Slide",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 18,
+   "code": "L19",
+   "name": "Conga Lo /H",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 19,
+   "code": "L20",
+   "name": "Conga Lo /T",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 20,
+   "code": "L21",
+   "name": "Conga Lo",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 21,
+   "code": "L22",
+   "name": "CongaLoOpSlp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 22,
+   "code": "L23",
+   "name": "Conga Lo Cls",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 23,
+   "code": "L24",
+   "name": "CongaLoClSlp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 24,
+   "code": "L25",
+   "name": "Conga LoHeel",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 25,
+   "code": "L26",
+   "name": "Conga Lo Toe",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 26,
+   "code": "L27",
+   "name": "Conga LoBass",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 27,
+   "code": "L28",
+   "name": "R-8 Conga Hi",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 28,
+   "code": "L29",
+   "name": "R-8Cng HiCls",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 29,
+   "code": "L30",
+   "name": "R-8 Conga Lo",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 30,
+   "code": "L31",
+   "name": "Cowbell 1",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 31,
+   "code": "L32",
+   "name": "Cowbell 1 Mt",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 32,
+   "code": "L33",
+   "name": "Cowbell 2",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 33,
+   "code": "L34",
+   "name": "Cowbell 3",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 34,
+   "code": "L35",
+   "name": "Claves 1",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 35,
+   "code": "L36",
+   "name": "Claves 2",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 36,
+   "code": "L37",
+   "name": "Guiro Long",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 37,
+   "code": "L38",
+   "name": "Guiro Short",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 38,
+   "code": "L39",
+   "name": "Guiro LngSht",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 39,
+   "code": "L40",
+   "name": "Guiro 1notch",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 40,
+   "code": "L41",
+   "name": "Maracas",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 41,
+   "code": "L42",
+   "name": "Shaker 1",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 42,
+   "code": "L43",
+   "name": "Shaker 2",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 43,
+   "code": "L44",
+   "name": "Shaker 3",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 44,
+   "code": "L45",
+   "name": "Tambourine 1",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 45,
+   "code": "L46",
+   "name": "Tambourine 2",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 46,
+   "code": "L47",
+   "name": "Timbale Hi",
+   "category": "Latin",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 47,
+   "code": "L48",
+   "name": "Timbale HiRm",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 48,
+   "code": "L49",
+   "name": "Timble+Crash",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 49,
+   "code": "L50",
+   "name": "Timbale Lo",
+   "category": "Latin",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 50,
+   "code": "L51",
+   "name": "Timbale LoRm",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 51,
+   "code": "L52",
+   "name": "TimblHiPaila",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 52,
+   "code": "L53",
+   "name": "TmblHiPilaMt",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 53,
+   "code": "L54",
+   "name": "TimblLoPaila",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 54,
+   "code": "L55",
+   "name": "TmblLoPilaMt",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 55,
+   "code": "L56",
+   "name": "Timbl Hi Hnd",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 56,
+   "code": "L57",
+   "name": "TimblHiHndMt",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 57,
+   "code": "L58",
+   "name": "Timbl Lo Hnd",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 58,
+   "code": "L59",
+   "name": "TimblLoHndMt",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 59,
+   "code": "L60",
+   "name": "Vibra-slap",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 60,
+   "code": "L61",
+   "name": "Steel Drum 1",
+   "category": "Latin",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 61,
+   "code": "L62",
+   "name": "Steel Drum 2",
+   "category": "Latin",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 62,
+   "code": "L63",
+   "name": "Agogo 1 Hi",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 63,
+   "code": "L64",
+   "name": "Agogo 1 Lo",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 64,
+   "code": "L65",
+   "name": "Agogo 1 HiLo",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 65,
+   "code": "L66",
+   "name": "Agogo 2 Hi",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 66,
+   "code": "L67",
+   "name": "Agogo 2 Lo",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 67,
+   "code": "L68",
+   "name": "Agogo 2 HiLo",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 68,
+   "code": "L69",
+   "name": "Agogo 3",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 69,
+   "code": "L70",
+   "name": "Cabasa",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 70,
+   "code": "L71",
+   "name": "Cuica 1",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 71,
+   "code": "L72",
+   "name": "Cuica 1 Open",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 72,
+   "code": "L73",
+   "name": "Cuica 1 Mut1",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 73,
+   "code": "L74",
+   "name": "Cuica 1 Mut2",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 74,
+   "code": "L75",
+   "name": "Cuica 2",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 75,
+   "code": "L76",
+   "name": "Cuica 2 Open",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 76,
+   "code": "L77",
+   "name": "Cuica 2 Mut1",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 77,
+   "code": "L78",
+   "name": "Cuica 2 Mut2",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 78,
+   "code": "L79",
+   "name": "Pandeiro",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 79,
+   "code": "L80",
+   "name": "Pandeiro Mut",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 80,
+   "code": "L81",
+   "name": "Pandeiro Slp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 81,
+   "code": "L82",
+   "name": "Pandeiro Lo",
+   "category": "Latin",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 82,
+   "code": "L83",
+   "name": "Pand Lo Mut",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 83,
+   "code": "L84",
+   "name": "Pand Lo Slp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 84,
+   "code": "L85",
+   "name": "R-8 Surdo",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 85,
+   "code": "L86",
+   "name": "R-8 Surdo Mt",
+   "category": "Latin",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 86,
+   "code": "L87",
+   "name": "R-8 Surdo Rm",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 87,
+   "code": "L88",
+   "name": "Surdo",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 88,
+   "code": "L89",
+   "name": "Surdo Mute",
+   "category": "Latin",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 89,
+   "code": "L90",
+   "name": "Tamborim",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 90,
+   "code": "L91",
+   "name": "Tamborim Mut",
+   "category": "Latin",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 91,
+   "code": "L92",
+   "name": "Tamborim Slp",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 92,
+   "code": "L93",
+   "name": "Tamborim 2",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 93,
+   "code": "L94",
+   "name": "Whistle Long",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 94,
+   "code": "L95",
+   "name": "Whistle Shrt",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 95,
+   "code": "L96",
+   "name": "Whstl LngSht",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 96,
+   "code": "L97",
+   "name": "Caxixi",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 97,
+   "code": "L98",
+   "name": "Berimbau",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "T"
+   ]
+  },
+  {
+   "value": 98,
+   "code": "L99",
+   "name": "Berimbau Mut",
+   "category": "Latin",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 99,
+   "code": "l01",
+   "name": "Berimbau Up",
+   "category": "Latin",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 100,
+   "code": "l02",
+   "name": "Berimbau Dn",
+   "category": "Latin",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 101,
+   "code": "l03",
+   "name": "BerimbauUpDn",
+   "category": "Latin",
+   "flags": [
+    "D",
+    "T"
+   ]
+  },
+  {
+   "value": 102,
+   "code": "l04",
+   "name": "Caixa",
+   "category": "Latin",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 103,
+   "code": "l05",
+   "name": "Caixa Rim",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 104,
+   "code": "l06",
+   "name": "Caixa Roll",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 105,
+   "code": "l07",
+   "name": "Rain Stick",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 106,
+   "code": "l08",
+   "name": "RainStk Soft",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 107,
+   "code": "l09",
+   "name": "SambaBateria",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 108,
+   "code": "l10",
+   "name": "Space Conga",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 109,
+   "code": "l11",
+   "name": "SpaceCng Bas",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 110,
+   "code": "l12",
+   "name": "E.Conga",
+   "category": "Latin",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 111,
+   "code": "l13",
+   "name": "E.Conga Bass",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 112,
+   "code": "l14",
+   "name": "DR-55 Claves",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 113,
+   "code": "l15",
+   "name": "CR-78 Cowbel",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 114,
+   "code": "l16",
+   "name": "CR-78 MetalB",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 115,
+   "code": "l17",
+   "name": "CR-78 Guiro",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 116,
+   "code": "l18",
+   "name": "CR-78 Tambrn",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 117,
+   "code": "l19",
+   "name": "CR-78 Maracs",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 118,
+   "code": "l20",
+   "name": "CR-78 Bongo",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 119,
+   "code": "l21",
+   "name": "CR-78 Claves",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 120,
+   "code": "l22",
+   "name": "TR-808 Conga",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 121,
+   "code": "l23",
+   "name": "TR-808 Clavs",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 122,
+   "code": "l24",
+   "name": "TR-808 Marcs",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 123,
+   "code": "l25",
+   "name": "TR-808 Cow",
+   "category": "Latin",
+   "flags": []
+  },
+  {
+   "value": 124,
+   "code": "F01",
+   "name": "Shekere",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 125,
+   "code": "F02",
+   "name": "Djembe /H",
+   "category": "African",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 126,
+   "code": "F03",
+   "name": "Djembe /T",
+   "category": "African",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 127,
+   "code": "F04",
+   "name": "Djembe",
+   "category": "African",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 128,
+   "code": "F05",
+   "name": "Djembe Mute",
+   "category": "African",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 129,
+   "code": "F06",
+   "name": "Djembe Slap",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 130,
+   "code": "F07",
+   "name": "Djembe Bass",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 131,
+   "code": "F08",
+   "name": "SmallDjmb /H",
+   "category": "African",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 132,
+   "code": "F09",
+   "name": "SmallDjmb /T",
+   "category": "African",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 133,
+   "code": "F10",
+   "name": "Small Djembe",
+   "category": "African",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 134,
+   "code": "F11",
+   "name": "SmallDjmb Mt",
+   "category": "African",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 135,
+   "code": "F12",
+   "name": "SmallDjmbSlp",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 136,
+   "code": "F13",
+   "name": "SmallDjmb Bs",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 137,
+   "code": "F14",
+   "name": "TalkingDrm 1",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 138,
+   "code": "F15",
+   "name": "TalkingDrm 2",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 139,
+   "code": "F16",
+   "name": "TalkingDrm 3",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 140,
+   "code": "F17",
+   "name": "Afro Drum 1",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 141,
+   "code": "F18",
+   "name": "Afro Drum 2",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 142,
+   "code": "F19",
+   "name": "Afro Dr Flam",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 143,
+   "code": "F20",
+   "name": "Afro Dr Rttl",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 144,
+   "code": "F21",
+   "name": "Metal Casta",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 145,
+   "code": "F22",
+   "name": "PotDrm 1 Lo",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 146,
+   "code": "F23",
+   "name": "PotDrm 1 Hi",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 147,
+   "code": "F24",
+   "name": "PotDrm 1 Acc",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 148,
+   "code": "F25",
+   "name": "PotDrm 2",
+   "category": "African",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 149,
+   "code": "F26",
+   "name": "PotDrm 2 Mut",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 150,
+   "code": "F27",
+   "name": "PotDrm 2 Lng",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 151,
+   "code": "F28",
+   "name": "PotDrm 2 Sht",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 152,
+   "code": "F29",
+   "name": "PotDrm 3 Slp",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 153,
+   "code": "F30",
+   "name": "PotDrm 3 Bas",
+   "category": "African",
+   "flags": [
+    "D"
+   ]
+  },
+  {
+   "value": 154,
+   "code": "F31",
+   "name": "PotDrm 3 BsE",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 155,
+   "code": "F32",
+   "name": "Kalimba",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 156,
+   "code": "F33",
+   "name": "Log Drum",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 157,
+   "code": "F34",
+   "name": "Gyilli A",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 158,
+   "code": "F35",
+   "name": "Gyilli D",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 159,
+   "code": "F36",
+   "name": "Gyilli G",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 160,
+   "code": "F37",
+   "name": "Gyilli C",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 161,
+   "code": "F38",
+   "name": "Gyilli Hi G",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 162,
+   "code": "F39",
+   "name": "Gyli GlissUp",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 163,
+   "code": "F40",
+   "name": "Gyli GlissDn",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 164,
+   "code": "F41",
+   "name": "Gyli GlsUpDn",
+   "category": "African",
+   "flags": [
+    "D",
+    "T"
+   ]
+  },
+  {
+   "value": 165,
+   "code": "F42",
+   "name": "Balaphone A",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 166,
+   "code": "F43",
+   "name": "Balaphone F#",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 167,
+   "code": "F44",
+   "name": "Balaphone E",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 168,
+   "code": "F45",
+   "name": "Balaphone B",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 169,
+   "code": "F46",
+   "name": "Balphn GlsUp",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 170,
+   "code": "F47",
+   "name": "Balphn GlsDn",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 171,
+   "code": "F48",
+   "name": "Balphn UpDn",
+   "category": "African",
+   "flags": [
+    "D",
+    "T"
+   ]
+  },
+  {
+   "value": 172,
+   "code": "F49",
+   "name": "Balaphone 2",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 173,
+   "code": "F50",
+   "name": "Afro Zither",
+   "category": "African",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 174,
+   "code": "F51",
+   "name": "Afro Feet",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 175,
+   "code": "F52",
+   "name": "Afro Stomp",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 176,
+   "code": "F53",
+   "name": "Hand Drum",
+   "category": "African",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 177,
+   "code": "F54",
+   "name": "Hand Drum Bs",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 178,
+   "code": "F55",
+   "name": "MonguDrm Hi",
+   "category": "African",
+   "flags": [
+    "M",
+    "P"
+   ]
+  },
+  {
+   "value": 179,
+   "code": "F56",
+   "name": "MngDrm Hi Bs",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 180,
+   "code": "F57",
+   "name": "MonguDrm Lo",
+   "category": "African",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 181,
+   "code": "F58",
+   "name": "Clapstick",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 182,
+   "code": "F59",
+   "name": "Boomerang",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 183,
+   "code": "F60",
+   "name": "Bamboo",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 184,
+   "code": "F61",
+   "name": "Bloom Bell",
+   "category": "African",
+   "flags": []
+  },
+  {
+   "value": 185,
+   "code": "I01",
+   "name": "Sarna Bell",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 186,
+   "code": "I02",
+   "name": "Tabla Na",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 187,
+   "code": "I03",
+   "name": "Tabla Tin",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 188,
+   "code": "I04",
+   "name": "Tabla Tun",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 189,
+   "code": "I05",
+   "name": "Tabla Ti",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 190,
+   "code": "I06",
+   "name": "Tabla TinNa",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 191,
+   "code": "I07",
+   "name": "Tabla TiNa",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 192,
+   "code": "I08",
+   "name": "Tabla TunTin",
+   "category": "Indian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 193,
+   "code": "I09",
+   "name": "Tabla 2 Te",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 194,
+   "code": "I10",
+   "name": "Baya Slide",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 195,
+   "code": "I11",
+   "name": "Baya Gin",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 196,
+   "code": "I12",
+   "name": "Baya Ka",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 197,
+   "code": "I13",
+   "name": "Baya Ge",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 198,
+   "code": "I14",
+   "name": "Baya GeKa",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 199,
+   "code": "I15",
+   "name": "Dholak Ga",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 200,
+   "code": "I16",
+   "name": "Dholak Ta",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 201,
+   "code": "I17",
+   "name": "Dholak Tun",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 202,
+   "code": "I18",
+   "name": "Dholak Na",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 203,
+   "code": "I19",
+   "name": "Dholak TunNa",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 204,
+   "code": "I20",
+   "name": "Madal Da",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 205,
+   "code": "I21",
+   "name": "Madal Din",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 206,
+   "code": "I22",
+   "name": "Madal Ta",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 207,
+   "code": "I23",
+   "name": "Madal DinTa",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 208,
+   "code": "I24",
+   "name": "Khole",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 209,
+   "code": "I25",
+   "name": "Dhol Ga",
+   "category": "Indian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 210,
+   "code": "I26",
+   "name": "Dhol Slide",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 211,
+   "code": "I27",
+   "name": "Dhol Ka",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 212,
+   "code": "I28",
+   "name": "Dhol Da",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 213,
+   "code": "I29",
+   "name": "Sitar",
+   "category": "Indian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 214,
+   "code": "I30",
+   "name": "Sitar Gliss",
+   "category": "Indian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 215,
+   "code": "I31",
+   "name": "Santoor Lowr",
+   "category": "Indian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 216,
+   "code": "I32",
+   "name": "Santoor Uppr",
+   "category": "Indian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 217,
+   "code": "I33",
+   "name": "Tambura",
+   "category": "Indian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 218,
+   "code": "I34",
+   "name": "Tambura Dron",
+   "category": "Indian",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 219,
+   "code": "I35",
+   "name": "Bell Tree",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 220,
+   "code": "I36",
+   "name": "Sagat Open",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 221,
+   "code": "I37",
+   "name": "Sagat Closed",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 222,
+   "code": "I38",
+   "name": "Sagat OpCls",
+   "category": "Indian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 223,
+   "code": "I39",
+   "name": "Darbuka1 Dom",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 224,
+   "code": "I40",
+   "name": "Darbuka1 Tak",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 225,
+   "code": "I41",
+   "name": "Darbuka2",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 226,
+   "code": "I42",
+   "name": "Doira Dun",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 227,
+   "code": "I43",
+   "name": "Doira Tik",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 228,
+   "code": "I44",
+   "name": "Doholla Dom",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 229,
+   "code": "I45",
+   "name": "Doholla Sak",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 230,
+   "code": "I46",
+   "name": "Doholla Tak",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 231,
+   "code": "I47",
+   "name": "Doholla Roll",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 232,
+   "code": "I48",
+   "name": "Doholla Stop",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 233,
+   "code": "I49",
+   "name": "Dohol RolStp",
+   "category": "Indian",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 234,
+   "code": "I50",
+   "name": "Rek Dom",
+   "category": "Indian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 235,
+   "code": "I51",
+   "name": "Rek Tek",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 236,
+   "code": "I52",
+   "name": "Rek Open",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 237,
+   "code": "I53",
+   "name": "Rek Trill",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 238,
+   "code": "I54",
+   "name": "Bendir",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 239,
+   "code": "I55",
+   "name": "Dawul",
+   "category": "Indian",
+   "flags": []
+  },
+  {
+   "value": 240,
+   "code": "I56",
+   "name": "HmrDlcmr Lwr",
+   "category": "Indian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 241,
+   "code": "I57",
+   "name": "HmrDlcmr Upr",
+   "category": "Indian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 242,
+   "code": "A01",
+   "name": "Biwa",
+   "category": "Asian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 243,
+   "code": "A02",
+   "name": "Atarigane",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 244,
+   "code": "A03",
+   "name": "Hyoshigi",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 245,
+   "code": "A04",
+   "name": "Ohkawa",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 246,
+   "code": "A05",
+   "name": "Tsuzumi Hi",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 247,
+   "code": "A06",
+   "name": "Tsuzumi Lo",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 248,
+   "code": "A07",
+   "name": "Shime Taiko1",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 249,
+   "code": "A08",
+   "name": "Shime Taiko2",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 250,
+   "code": "A09",
+   "name": "MatsuriTaiko",
+   "category": "Asian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 251,
+   "code": "A10",
+   "name": "Matsuri TkRm",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 252,
+   "code": "A11",
+   "name": "Buk",
+   "category": "Asian",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 253,
+   "code": "A12",
+   "name": "Buk Rim",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 254,
+   "code": "A13",
+   "name": "Jang-Gu",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 255,
+   "code": "A14",
+   "name": "Jing",
+   "category": "Asian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 256,
+   "code": "A15",
+   "name": "Jing Mute",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 257,
+   "code": "A16",
+   "name": "Gengari",
+   "category": "Asian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 258,
+   "code": "A17",
+   "name": "Gengari Mute",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 259,
+   "code": "A18",
+   "name": "Ban Gu 1",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 260,
+   "code": "A19",
+   "name": "Ban Gu 2",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 261,
+   "code": "A20",
+   "name": "Ban Gu 3",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 262,
+   "code": "A21",
+   "name": "Gu Roll",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 263,
+   "code": "A22",
+   "name": "Gu High",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 264,
+   "code": "A23",
+   "name": "Gu Roll-Stop",
+   "category": "Asian",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 265,
+   "code": "A24",
+   "name": "Tang Gu",
+   "category": "Asian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 266,
+   "code": "A25",
+   "name": "Tang Gu Mute",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 267,
+   "code": "A26",
+   "name": "Hu Yin Luo",
+   "category": "Asian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 268,
+   "code": "A27",
+   "name": "HuYinLuo Mut",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 269,
+   "code": "A28",
+   "name": "Nao Bo",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 270,
+   "code": "A29",
+   "name": "Xiao Bo",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 271,
+   "code": "A30",
+   "name": "Large TamTam",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 272,
+   "code": "A31",
+   "name": "Large Gong",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 273,
+   "code": "A32",
+   "name": "Small Gong",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 274,
+   "code": "A33",
+   "name": "Bend Gong",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 275,
+   "code": "A34",
+   "name": "Yang Qin",
+   "category": "Asian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 276,
+   "code": "A35",
+   "name": "Finger Cym",
+   "category": "Asian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 277,
+   "code": "A36",
+   "name": "Fingr Cym Mt",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 278,
+   "code": "A37",
+   "name": "Rama Cymbal",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 279,
+   "code": "A38",
+   "name": "Chenchen Opn",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 280,
+   "code": "A39",
+   "name": "Chenchen Cls",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 281,
+   "code": "A40",
+   "name": "Chenchn OpCl",
+   "category": "Asian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 282,
+   "code": "A41",
+   "name": "Bali Cym Opn",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 283,
+   "code": "A42",
+   "name": "Bali Cym Cls",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 284,
+   "code": "A43",
+   "name": "BaliCym OpCl",
+   "category": "Asian",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 285,
+   "code": "A44",
+   "name": "Thai Gong",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 286,
+   "code": "A45",
+   "name": "JawsHarp Opn",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 287,
+   "code": "A46",
+   "name": "JawsHarp Wow",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 288,
+   "code": "A47",
+   "name": "JawsHrp OpWo",
+   "category": "Asian",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 289,
+   "code": "A48",
+   "name": "Bonang",
+   "category": "Asian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 290,
+   "code": "A49",
+   "name": "Gender",
+   "category": "Asian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 291,
+   "code": "A50",
+   "name": "Saron",
+   "category": "Asian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 292,
+   "code": "A51",
+   "name": "Angklung",
+   "category": "Asian",
+   "flags": []
+  },
+  {
+   "value": 293,
+   "code": "A52",
+   "name": "Gamelan 1",
+   "category": "Asian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 294,
+   "code": "A53",
+   "name": "Gamelan 2",
+   "category": "Asian",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 295,
+   "code": "O01",
+   "name": "Sleigh Bell",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 296,
+   "code": "O02",
+   "name": "Tree Chimes",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 297,
+   "code": "O03",
+   "name": "Triangle",
+   "category": "Orch",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 298,
+   "code": "O04",
+   "name": "Triangle Mut",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 299,
+   "code": "O05",
+   "name": "Castanets",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 300,
+   "code": "O06",
+   "name": "Wood Block",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 301,
+   "code": "O07",
+   "name": "WdBlock HiLo",
+   "category": "Orch",
+   "flags": [
+    "M",
+    "D"
+   ]
+  },
+  {
+   "value": 302,
+   "code": "O08",
+   "name": "Slapstick",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 303,
+   "code": "O09",
+   "name": "Concert BsDr",
+   "category": "Orch",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 304,
+   "code": "O10",
+   "name": "Conc BsDrMut",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 305,
+   "code": "O11",
+   "name": "Timpani",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 306,
+   "code": "O12",
+   "name": "Perc Hit",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 307,
+   "code": "O13",
+   "name": "Orch Hit 1",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 308,
+   "code": "O14",
+   "name": "Orch Hit 2",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 309,
+   "code": "O15",
+   "name": "DrmMaj Whstl",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 310,
+   "code": "O16",
+   "name": "Glockenspiel",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 311,
+   "code": "O17",
+   "name": "Vibraphone",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 312,
+   "code": "O18",
+   "name": "Xylophone",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 313,
+   "code": "O19",
+   "name": "Marimba 1",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 314,
+   "code": "O20",
+   "name": "Marimba 2",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 315,
+   "code": "O21",
+   "name": "Bass Marimba",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 316,
+   "code": "O22",
+   "name": "Celesta",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 317,
+   "code": "O23",
+   "name": "Tubular Bell",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 318,
+   "code": "O24",
+   "name": "Glass",
+   "category": "Orch",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 319,
+   "code": "O25",
+   "name": "Iron Hammer",
+   "category": "Orch",
+   "flags": []
+  },
+  {
+   "value": 320,
+   "code": "R01",
+   "name": "Dry Hard Kik",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 321,
+   "code": "R02",
+   "name": "Jazz Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 322,
+   "code": "R03",
+   "name": "Vintage Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 323,
+   "code": "R04",
+   "name": "26” Deep Kik",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 324,
+   "code": "R05",
+   "name": "Wood Beatr K",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 325,
+   "code": "R06",
+   "name": "HipHop Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 326,
+   "code": "R07",
+   "name": "Plastic Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 327,
+   "code": "R08",
+   "name": "Electronic K",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 328,
+   "code": "R09",
+   "name": "TR-808 Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 329,
+   "code": "R10",
+   "name": "808 Boom Kik",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 330,
+   "code": "R11",
+   "name": "TR-909 Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 331,
+   "code": "R12",
+   "name": "CR-78 Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 332,
+   "code": "R13",
+   "name": "Beech Snare",
+   "category": "Drums",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 333,
+   "code": "R14",
+   "name": "BeechS RmSht",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 334,
+   "code": "R15",
+   "name": "Loose S Hrd",
+   "category": "Drums",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 335,
+   "code": "R16",
+   "name": "Loose S Rim",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 336,
+   "code": "R17",
+   "name": "Concert Snr",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 337,
+   "code": "R18",
+   "name": "Concrt S Rol",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 338,
+   "code": "R19",
+   "name": "Concrt S Buz",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 339,
+   "code": "R20",
+   "name": "Hi Piccolo S",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 340,
+   "code": "R21",
+   "name": "L.A. Snare",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 341,
+   "code": "R22",
+   "name": "Brush Snare",
+   "category": "Drums",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 342,
+   "code": "R23",
+   "name": "Brush Rol S1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 343,
+   "code": "R24",
+   "name": "Brush Rol S2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 344,
+   "code": "R25",
+   "name": "Brush Swsh S",
+   "category": "Drums",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 345,
+   "code": "R26",
+   "name": "Brush Slp S1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 346,
+   "code": "R27",
+   "name": "Brush Slp S2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 347,
+   "code": "R28",
+   "name": "House Dopn’S",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 348,
+   "code": "R29",
+   "name": "Swing Snare",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 349,
+   "code": "R30",
+   "name": "Quinto Snare",
+   "category": "Drums",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 350,
+   "code": "R31",
+   "name": "Electronic S",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 351,
+   "code": "R32",
+   "name": "TR-808 Snare",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 352,
+   "code": "R33",
+   "name": "TR-909 Snare",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 353,
+   "code": "R34",
+   "name": "CR-78 Snare",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 354,
+   "code": "R35",
+   "name": "Amb CrossStk",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 355,
+   "code": "R36",
+   "name": "Hall CrosStk",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 356,
+   "code": "R37",
+   "name": "Stick Hit",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 357,
+   "code": "R38",
+   "name": "Sticks",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 358,
+   "code": "R39",
+   "name": "TR-808 Stick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 359,
+   "code": "R40",
+   "name": "TR-909 Stick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 360,
+   "code": "R41",
+   "name": "CR-78 Stick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 361,
+   "code": "R42",
+   "name": "Metal Stick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 362,
+   "code": "R43",
+   "name": "Vintage Tom1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 363,
+   "code": "R44",
+   "name": "Vintage Tom2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 364,
+   "code": "R45",
+   "name": "Dbl Head T 1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 365,
+   "code": "R46",
+   "name": "Dbl Head T 2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 366,
+   "code": "R47",
+   "name": "Room Tom 1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 367,
+   "code": "R48",
+   "name": "Room Tom 2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 368,
+   "code": "R49",
+   "name": "Brush Slp T1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 369,
+   "code": "R50",
+   "name": "Brush Slp T2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 370,
+   "code": "R51",
+   "name": "Electronic T",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 371,
+   "code": "R52",
+   "name": "2-Tone ElecT",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 372,
+   "code": "R53",
+   "name": "Bright ElecT",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 373,
+   "code": "R54",
+   "name": "TR-808 Tom",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 374,
+   "code": "R55",
+   "name": "TR-909 Tom",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 375,
+   "code": "R56",
+   "name": "909 Whack T",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 376,
+   "code": "R57",
+   "name": "Pure CHH",
+   "category": "Drums",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 377,
+   "code": "R58",
+   "name": "PureCHH Edge",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 378,
+   "code": "R59",
+   "name": "Pure HalfOHH",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 379,
+   "code": "R60",
+   "name": "Pure OHH",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 380,
+   "code": "R61",
+   "name": "Tamburn CHH",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 381,
+   "code": "R62",
+   "name": "Tamburn OHH",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 382,
+   "code": "R63",
+   "name": "TR-808 CHH",
+   "category": "Drums",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 383,
+   "code": "R64",
+   "name": "808 CHH Edge",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 384,
+   "code": "R65",
+   "name": "TR-808 OHH",
+   "category": "Drums",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 385,
+   "code": "R66",
+   "name": "808 OHH Edge",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 386,
+   "code": "R67",
+   "name": "TR-909 CHH",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 387,
+   "code": "R68",
+   "name": "TR-909 OHH",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 388,
+   "code": "R69",
+   "name": "Pure Hi-Hat",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 389,
+   "code": "R70",
+   "name": "13” Hi-Hat",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 390,
+   "code": "R71",
+   "name": "Hand Cym HH",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 391,
+   "code": "R72",
+   "name": "Tambourin HH",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 392,
+   "code": "R73",
+   "name": "Maracas HH",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 393,
+   "code": "R74",
+   "name": "Chenchen HH",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 394,
+   "code": "R75",
+   "name": "TR-808 HiHat",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 395,
+   "code": "R76",
+   "name": "TR-909 HiHat",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 396,
+   "code": "R77",
+   "name": "Metal 808 HH",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 397,
+   "code": "R78",
+   "name": "Metal 909 HH",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 398,
+   "code": "R79",
+   "name": "Crash Cymbal",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 399,
+   "code": "R80",
+   "name": "Chinese Cym",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 400,
+   "code": "R81",
+   "name": "Szl ChineseC",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 401,
+   "code": "R82",
+   "name": "Splash Cym 1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 402,
+   "code": "R83",
+   "name": "Splash Cym 2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 403,
+   "code": "R84",
+   "name": "Pgy Crash C1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 404,
+   "code": "R85",
+   "name": "Ride Cymbal",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 405,
+   "code": "R86",
+   "name": "Ride Bell C",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 406,
+   "code": "R87",
+   "name": "Ride X Bell",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 407,
+   "code": "R88",
+   "name": "Sizzl Ride C",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 408,
+   "code": "R89",
+   "name": "Sizzl Rd Bel",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 409,
+   "code": "R90",
+   "name": "Pgy Ride Cym",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 410,
+   "code": "R91",
+   "name": "Brush Ride C",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 411,
+   "code": "R92",
+   "name": "Brsh Szl RdC",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 412,
+   "code": "R93",
+   "name": "Hand Cymbals",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 413,
+   "code": "R94",
+   "name": "Mallet Cymbl",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 414,
+   "code": "R95",
+   "name": "TR-808 Cymbl",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 415,
+   "code": "R96",
+   "name": "TR-606 Cymbl",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 416,
+   "code": "R97",
+   "name": "Wheel Pedal",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 417,
+   "code": "R98",
+   "name": "KickCymbal 1",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 418,
+   "code": "R99",
+   "name": "KickCymbal 2",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 419,
+   "code": "r01",
+   "name": "KickCymbal 3",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 420,
+   "code": "r02",
+   "name": "Voice Kick",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 421,
+   "code": "r03",
+   "name": "Voice Snare",
+   "category": "Drums",
+   "flags": []
+  },
+  {
+   "value": 422,
+   "code": "r04",
+   "name": "Voice Hi-Hat",
+   "category": "Drums",
+   "flags": [
+    "F"
+   ]
+  },
+  {
+   "value": 423,
+   "code": "D01",
+   "name": "TR-808 Clap",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 424,
+   "code": "D02",
+   "name": "Hand Clap 1",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 425,
+   "code": "D03",
+   "name": "Hand Clap 2",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 426,
+   "code": "D04",
+   "name": "Hand Clap 3",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 427,
+   "code": "D05",
+   "name": "Afro Clap",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 428,
+   "code": "D06",
+   "name": "Scratch Push",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 429,
+   "code": "D07",
+   "name": "Scratch Pull",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 430,
+   "code": "D08",
+   "name": "ScrhPushPull",
+   "category": "Dance",
+   "flags": [
+    "D"
+   ]
+  },
+  {
+   "value": 431,
+   "code": "D09",
+   "name": "Scrch Stereo",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 432,
+   "code": "D10",
+   "name": "Scr BsDr Psh",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 433,
+   "code": "D11",
+   "name": "Scr BsDr Pul",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 434,
+   "code": "D12",
+   "name": "Scr Bs PshPl",
+   "category": "Dance",
+   "flags": [
+    "D"
+   ]
+  },
+  {
+   "value": 435,
+   "code": "D13",
+   "name": "Jungle Cymbl",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 436,
+   "code": "D14",
+   "name": "Dance Shaker",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 437,
+   "code": "D15",
+   "name": "Trash body",
+   "category": "Dance",
+   "flags": [
+    "P"
+   ]
+  },
+  {
+   "value": 438,
+   "code": "D16",
+   "name": "Trash edge",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 439,
+   "code": "D17",
+   "name": "Trash lid",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 440,
+   "code": "D18",
+   "name": "Trash bottom",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 441,
+   "code": "D19",
+   "name": "High-Q 1",
+   "category": "Dance",
+   "flags": [
+    "D"
+   ]
+  },
+  {
+   "value": 442,
+   "code": "D20",
+   "name": "High-Q 2",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 443,
+   "code": "D21",
+   "name": "Rev High-Q",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 444,
+   "code": "D22",
+   "name": "Air Blip",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 445,
+   "code": "D23",
+   "name": "Techno Snap",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 446,
+   "code": "D24",
+   "name": "Organ Chord",
+   "category": "Dance",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 447,
+   "code": "D25",
+   "name": "Dist Guitar",
+   "category": "Dance",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 448,
+   "code": "D26",
+   "name": "Auh Voice",
+   "category": "Dance",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 449,
+   "code": "D27",
+   "name": "Techno Chord",
+   "category": "Dance",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 450,
+   "code": "D28",
+   "name": "Techno Scene",
+   "category": "Dance",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 451,
+   "code": "D29",
+   "name": "Synth Hit",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 452,
+   "code": "D30",
+   "name": "Distort Hit",
+   "category": "Dance",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 453,
+   "code": "D31",
+   "name": "Techno Hit",
+   "category": "Dance",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 454,
+   "code": "D32",
+   "name": "Philly Hit",
+   "category": "Dance",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 455,
+   "code": "D33",
+   "name": "Funk Hit",
+   "category": "Dance",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 456,
+   "code": "D34",
+   "name": "Funny Hit",
+   "category": "Dance",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 457,
+   "code": "D35",
+   "name": "Cuica Hit",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 458,
+   "code": "D36",
+   "name": "Rev Cuica Ht",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 459,
+   "code": "D37",
+   "name": "Thin Beef",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 460,
+   "code": "D38",
+   "name": "Bounce",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 461,
+   "code": "D39",
+   "name": "Dist Swish",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 462,
+   "code": "D40",
+   "name": "PCM Press",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 463,
+   "code": "D41",
+   "name": "Reverse Beat",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 464,
+   "code": "D42",
+   "name": "Monster Drum",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 465,
+   "code": "D43",
+   "name": "Can Drum",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 466,
+   "code": "D44",
+   "name": "Jungle Rol K",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 467,
+   "code": "D45",
+   "name": "Jungle Rol S",
+   "category": "Dance",
+   "flags": []
+  },
+  {
+   "value": 468,
+   "code": "S01",
+   "name": "Burt",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 469,
+   "code": "S02",
+   "name": "Boing",
+   "category": "SFX",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 470,
+   "code": "S03",
+   "name": "ReverseBoing",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 471,
+   "code": "S04",
+   "name": "Tom Noise",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 472,
+   "code": "S05",
+   "name": "Laser",
+   "category": "SFX",
+   "flags": [
+    "M"
+   ]
+  },
+  {
+   "value": 473,
+   "code": "S06",
+   "name": "ReverseLaser",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 474,
+   "code": "S07",
+   "name": "Toy Gun",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 475,
+   "code": "S08",
+   "name": "Eddy",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 476,
+   "code": "S09",
+   "name": "Congerin",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 477,
+   "code": "S10",
+   "name": "Moment",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 478,
+   "code": "S11",
+   "name": "Toy Chat",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 479,
+   "code": "S12",
+   "name": "Second Tick",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 480,
+   "code": "S13",
+   "name": "Drip",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 481,
+   "code": "S14",
+   "name": "Click",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 482,
+   "code": "S15",
+   "name": "Metronm Bell",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 483,
+   "code": "S16",
+   "name": "Metronm Clk",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 484,
+   "code": "S17",
+   "name": "R-8 Spark",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 485,
+   "code": "S18",
+   "name": "Anvil",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 486,
+   "code": "S19",
+   "name": "Chop",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 487,
+   "code": "S20",
+   "name": "Metal 1",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 488,
+   "code": "S21",
+   "name": "Metal 2",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 489,
+   "code": "S22",
+   "name": "Crash",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 490,
+   "code": "S23",
+   "name": "Shot 1",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 491,
+   "code": "S24",
+   "name": "Shot 2",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 492,
+   "code": "S25",
+   "name": "Shot 3",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 493,
+   "code": "S26",
+   "name": "Shot 4",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 494,
+   "code": "S27",
+   "name": "Noise Acc 1",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 495,
+   "code": "S28",
+   "name": "Noise Acc 2",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 496,
+   "code": "S29",
+   "name": "Noise Acc 3",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 497,
+   "code": "S30",
+   "name": "Noise Acc 4",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 498,
+   "code": "S31",
+   "name": "Random Noiz1",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 499,
+   "code": "S32",
+   "name": "Random Noiz2",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 500,
+   "code": "S33",
+   "name": "Random Noiz3",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 501,
+   "code": "S34",
+   "name": "Random Noiz4",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 502,
+   "code": "S35",
+   "name": "White Noise",
+   "category": "SFX",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 503,
+   "code": "S36",
+   "name": "Pink Noise",
+   "category": "SFX",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 504,
+   "code": "S37",
+   "name": "Rev Vibraslp",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 505,
+   "code": "S38",
+   "name": "RevSitar Gls",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 506,
+   "code": "S39",
+   "name": "Rev Bend Gng",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 507,
+   "code": "S40",
+   "name": "Rev Voice K",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 508,
+   "code": "S41",
+   "name": "Rev Voice S",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 509,
+   "code": "S42",
+   "name": "Cabasa 1shot",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 510,
+   "code": "S43",
+   "name": "Matsuri",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 511,
+   "code": "S44",
+   "name": "Uut?",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 512,
+   "code": "S45",
+   "name": "Drop",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 513,
+   "code": "S46",
+   "name": "Emergency",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 514,
+   "code": "S47",
+   "name": "Woody 1",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 515,
+   "code": "S48",
+   "name": "Woody 2",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 516,
+   "code": "S49",
+   "name": "Punch",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 517,
+   "code": "S50",
+   "name": "Metallic Lid",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 518,
+   "code": "S51",
+   "name": "Glass Crash",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 519,
+   "code": "S52",
+   "name": "Door Close",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 520,
+   "code": "S53",
+   "name": "Bomb",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 521,
+   "code": "S54",
+   "name": "Reverse Bomb",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 522,
+   "code": "S55",
+   "name": "Explosion",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 523,
+   "code": "S56",
+   "name": "Thunder",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 524,
+   "code": "S57",
+   "name": "Stream",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 525,
+   "code": "S58",
+   "name": "Snaps",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 526,
+   "code": "S59",
+   "name": "Foot Step",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 527,
+   "code": "S60",
+   "name": "Human Whistl",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 528,
+   "code": "S61",
+   "name": "Chiki!",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 529,
+   "code": "S62",
+   "name": "Hey!",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 530,
+   "code": "S63",
+   "name": "Voice Ahhh",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 531,
+   "code": "S64",
+   "name": "Rev Voc Ahhh",
+   "category": "SFX",
+   "flags": []
+  },
+  {
+   "value": 532,
+   "code": "T01",
+   "name": "Ac.Piano",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 533,
+   "code": "T02",
+   "name": "E.Piano",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 534,
+   "code": "T03",
+   "name": "60’s EP",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 535,
+   "code": "T04",
+   "name": "Soft FM EP",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 536,
+   "code": "T05",
+   "name": "Clavinet",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 537,
+   "code": "T06",
+   "name": "Even Bar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 538,
+   "code": "T07",
+   "name": "Organ",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 539,
+   "code": "T08",
+   "name": "Nylon Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 540,
+   "code": "T09",
+   "name": "Steel Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 541,
+   "code": "T10",
+   "name": "Jazz Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 542,
+   "code": "T11",
+   "name": "Clean Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 543,
+   "code": "T12",
+   "name": "Muted Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 544,
+   "code": "T13",
+   "name": "Pop Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 545,
+   "code": "T14",
+   "name": "Funk Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 546,
+   "code": "T15",
+   "name": "Overdrive Gt",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 547,
+   "code": "T16",
+   "name": "Heavy Guitar",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 548,
+   "code": "T17",
+   "name": "Muted DistGt",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 549,
+   "code": "T18",
+   "name": "Rock Rhythm",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 550,
+   "code": "T19",
+   "name": "Wah Gtr Dn 1",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 551,
+   "code": "T20",
+   "name": "Wah Gtr Up 1",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 552,
+   "code": "T21",
+   "name": "Wah Gtr Dn 2",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 553,
+   "code": "T22",
+   "name": "Wah Gtr Up 2",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 554,
+   "code": "T23",
+   "name": "Cut Gtr Dn",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 555,
+   "code": "T24",
+   "name": "Cut Gtr Up",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 556,
+   "code": "T25",
+   "name": "Gtr Scratch1",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 557,
+   "code": "T26",
+   "name": "Rev Gtr Scr1",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 558,
+   "code": "T27",
+   "name": "Gtr Scrach2",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 559,
+   "code": "T28",
+   "name": "Rev Gtr Scr2",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 560,
+   "code": "T29",
+   "name": "Bass Slide",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 561,
+   "code": "T30",
+   "name": "Rev Bs Slide",
+   "category": "Others",
+   "flags": []
+  },
+  {
+   "value": 562,
+   "code": "T31",
+   "name": "Acoustic Bs",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 563,
+   "code": "T32",
+   "name": "E.AcousticBs",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 564,
+   "code": "T33",
+   "name": "Fingered Bs",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 565,
+   "code": "T34",
+   "name": "Funk Bass",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 566,
+   "code": "T35",
+   "name": "Pick Bass",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 567,
+   "code": "T36",
+   "name": "Muted PickBs",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 568,
+   "code": "T37",
+   "name": "Fretless Bs",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 569,
+   "code": "T38",
+   "name": "Slap Bass",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 570,
+   "code": "T39",
+   "name": "Synth Bass",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 571,
+   "code": "T40",
+   "name": "TB-303 Bass",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 572,
+   "code": "T41",
+   "name": "SH-101 Bass",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 573,
+   "code": "T42",
+   "name": "Orch Strings",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 574,
+   "code": "T43",
+   "name": "Syn Strings",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 575,
+   "code": "T44",
+   "name": "OB Strings",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 576,
+   "code": "T45",
+   "name": "Brass Hit L",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 577,
+   "code": "T46",
+   "name": "Brass Hit S",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 578,
+   "code": "T47",
+   "name": "Brass Hit LS",
+   "category": "Others",
+   "flags": [
+    "M",
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 579,
+   "code": "T48",
+   "name": "Brass Fall",
+   "category": "Others",
+   "flags": [
+    "T"
+   ]
+  },
+  {
+   "value": 580,
+   "code": "T49",
+   "name": "Octave Brass",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 581,
+   "code": "T50",
+   "name": "Poly Brass",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 582,
+   "code": "T51",
+   "name": "Tenor Sax",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 583,
+   "code": "T52",
+   "name": "Flute",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 584,
+   "code": "T53",
+   "name": "Sine Wave",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 585,
+   "code": "T54",
+   "name": "Saw Wave 1",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 586,
+   "code": "T55",
+   "name": "Saw Wave 2",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 587,
+   "code": "T56",
+   "name": "Square Wave",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 588,
+   "code": "T57",
+   "name": "Buzzer",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 589,
+   "code": "T58",
+   "name": "Beep",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 590,
+   "code": "T59",
+   "name": "JU-2 Sub OSC",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 591,
+   "code": "T60",
+   "name": "Poly OSC",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 592,
+   "code": "T61",
+   "name": "Juno Rave",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 593,
+   "code": "T62",
+   "name": "JP Hoover",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 594,
+   "code": "T63",
+   "name": "Feedback Wav",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 595,
+   "code": "T64",
+   "name": "Atmosphere",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 596,
+   "code": "T65",
+   "name": "Syn Calliope",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 597,
+   "code": "T66",
+   "name": "Fantasia",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 598,
+   "code": "T67",
+   "name": "Thick Pad",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 599,
+   "code": "T68",
+   "name": "80’s PolySyn",
+   "category": "Others",
+   "flags": [
+    "H",
+    "T"
+   ]
+  },
+  {
+   "value": 600,
+   "code": "T69",
+   "name": "Off",
+   "category": "Others",
+   "flags": []
+  }
+ ],
+ "padSetInstruments": [
+  {
+   "value": 1,
+   "number": 1,
+   "name": "Conga"
+  },
+  {
+   "value": 2,
+   "number": 2,
+   "name": "Conga II"
+  },
+  {
+   "value": 3,
+   "number": 3,
+   "name": "Bongo"
+  },
+  {
+   "value": 4,
+   "number": 4,
+   "name": "Timbales"
+  },
+  {
+   "value": 5,
+   "number": 5,
+   "name": "Paila Lo"
+  },
+  {
+   "value": 6,
+   "number": 6,
+   "name": "Paila Hi"
+  },
+  {
+   "value": 7,
+   "number": 7,
+   "name": "Giro&Cowbel"
+  },
+  {
+   "value": 8,
+   "number": 8,
+   "name": "Latin Perc 1"
+  },
+  {
+   "value": 9,
+   "number": 9,
+   "name": "Latin Perc 2"
+  },
+  {
+   "value": 10,
+   "number": 10,
+   "name": "Latin Perc 3"
+  },
+  {
+   "value": 11,
+   "number": 11,
+   "name": "Agogo"
+  },
+  {
+   "value": 12,
+   "number": 12,
+   "name": "Cuica"
+  },
+  {
+   "value": 13,
+   "number": 13,
+   "name": "Surdo"
+  },
+  {
+   "value": 14,
+   "number": 14,
+   "name": "Pandeiro"
+  },
+  {
+   "value": 15,
+   "number": 15,
+   "name": "Tamborim"
+  },
+  {
+   "value": 16,
+   "number": 16,
+   "name": "Caixa"
+  },
+  {
+   "value": 17,
+   "number": 17,
+   "name": "Berimbau"
+  },
+  {
+   "value": 18,
+   "number": 18,
+   "name": "Space Conga"
+  },
+  {
+   "value": 19,
+   "number": 19,
+   "name": "808 Latin A"
+  },
+  {
+   "value": 20,
+   "number": 20,
+   "name": "808 Latin B"
+  },
+  {
+   "value": 21,
+   "number": 21,
+   "name": "808 Latin C"
+  },
+  {
+   "value": 22,
+   "number": 22,
+   "name": "Djembe S"
+  },
+  {
+   "value": 23,
+   "number": 23,
+   "name": "Djembe L"
+  },
+  {
+   "value": 24,
+   "number": 24,
+   "name": "TalkingDrum"
+  },
+  {
+   "value": 25,
+   "number": 25,
+   "name": "TalkingDrmII"
+  },
+  {
+   "value": 26,
+   "number": 26,
+   "name": "Pot Drum A"
+  },
+  {
+   "value": 27,
+   "number": 27,
+   "name": "Pot Drum B"
+  },
+  {
+   "value": 28,
+   "number": 28,
+   "name": "Pot Drum C"
+  },
+  {
+   "value": 29,
+   "number": 29,
+   "name": "Afro Drum"
+  },
+  {
+   "value": 30,
+   "number": 30,
+   "name": "MonguDrum"
+  },
+  {
+   "value": 31,
+   "number": 31,
+   "name": "Balaphon"
+  },
+  {
+   "value": 32,
+   "number": 32,
+   "name": "Gyilli"
+  },
+  {
+   "value": 33,
+   "number": 33,
+   "name": "Tabla"
+  },
+  {
+   "value": 34,
+   "number": 34,
+   "name": "Dholak"
+  },
+  {
+   "value": 35,
+   "number": 35,
+   "name": "Madal"
+  },
+  {
+   "value": 36,
+   "number": 36,
+   "name": "Dhol"
+  },
+  {
+   "value": 37,
+   "number": 37,
+   "name": "Darabukka"
+  },
+  {
+   "value": 38,
+   "number": 38,
+   "name": "Rek"
+  },
+  {
+   "value": 39,
+   "number": 39,
+   "name": "Doholla"
+  },
+  {
+   "value": 40,
+   "number": 40,
+   "name": "Doira"
+  },
+  {
+   "value": 41,
+   "number": 41,
+   "name": "JAPAN"
+  },
+  {
+   "value": 42,
+   "number": 42,
+   "name": "MATSURI"
+  },
+  {
+   "value": 43,
+   "number": 43,
+   "name": "CHINA"
+  },
+  {
+   "value": 44,
+   "number": 44,
+   "name": "Yang Qin"
+  },
+  {
+   "value": 45,
+   "number": 45,
+   "name": "Korean4Drm A"
+  },
+  {
+   "value": 46,
+   "number": 46,
+   "name": "Korean4Drm B"
+  },
+  {
+   "value": 47,
+   "number": 47,
+   "name": "Korean4Drm C"
+  },
+  {
+   "value": 48,
+   "number": 48,
+   "name": "Gender"
+  },
+  {
+   "value": 49,
+   "number": 49,
+   "name": "Bonang"
+  },
+  {
+   "value": 50,
+   "number": 50,
+   "name": "Saron"
+  },
+  {
+   "value": 51,
+   "number": 51,
+   "name": "Gamelan"
+  },
+  {
+   "value": 52,
+   "number": 52,
+   "name": "Bali Cymbal"
+  },
+  {
+   "value": 53,
+   "number": 53,
+   "name": "Thai Gong"
+  },
+  {
+   "value": 54,
+   "number": 54,
+   "name": "Asian Cymbal"
+  },
+  {
+   "value": 55,
+   "number": 55,
+   "name": "Timpani"
+  },
+  {
+   "value": 56,
+   "number": 56,
+   "name": "Orch Hit"
+  },
+  {
+   "value": 57,
+   "number": 57,
+   "name": "Drum Basic 1"
+  },
+  {
+   "value": 58,
+   "number": 58,
+   "name": "Drum Basic 2"
+  },
+  {
+   "value": 59,
+   "number": 59,
+   "name": "Brush Drum"
+  },
+  {
+   "value": 60,
+   "number": 60,
+   "name": "Elec.Drum"
+  },
+  {
+   "value": 61,
+   "number": 61,
+   "name": "Elec.Tom 1"
+  },
+  {
+   "value": 62,
+   "number": 62,
+   "name": "Elec.Tom 2"
+  },
+  {
+   "value": 63,
+   "number": 63,
+   "name": "TR-808 Drum"
+  },
+  {
+   "value": 64,
+   "number": 64,
+   "name": "TR-909 Drum"
+  },
+  {
+   "value": 65,
+   "number": 65,
+   "name": "CrashCymSet"
+  },
+  {
+   "value": 66,
+   "number": 66,
+   "name": "RideCymSet"
+  },
+  {
+   "value": 67,
+   "number": 67,
+   "name": "Jazz Drum"
+  },
+  {
+   "value": 68,
+   "number": 68,
+   "name": "BrushRideSet"
+  },
+  {
+   "value": 69,
+   "number": 69,
+   "name": "Timpani&S.D."
+  },
+  {
+   "value": 70,
+   "number": 70,
+   "name": "OrchPerc"
+  },
+  {
+   "value": 71,
+   "number": 71,
+   "name": "CymbalSet"
+  },
+  {
+   "value": 72,
+   "number": 72,
+   "name": "Junk Drums"
+  },
+  {
+   "value": 73,
+   "number": 73,
+   "name": "JunkCymbal 1"
+  },
+  {
+   "value": 74,
+   "number": 74,
+   "name": "JunkCymbal 2"
+  },
+  {
+   "value": 75,
+   "number": 75,
+   "name": "Brush Box"
+  },
+  {
+   "value": 76,
+   "number": 76,
+   "name": "Claps"
+  },
+  {
+   "value": 77,
+   "number": 77,
+   "name": "Scratches"
+  },
+  {
+   "value": 78,
+   "number": 78,
+   "name": "Trash Beat"
+  },
+  {
+   "value": 79,
+   "number": 79,
+   "name": "StreetRhythm"
+  },
+  {
+   "value": 80,
+   "number": 80,
+   "name": "LatinHouseDr"
+  },
+  {
+   "value": 81,
+   "number": 81,
+   "name": "Dance Drum 1"
+  },
+  {
+   "value": 82,
+   "number": 82,
+   "name": "Dance Drum 2"
+  },
+  {
+   "value": 83,
+   "number": 83,
+   "name": "Dance Drum 3"
+  },
+  {
+   "value": 84,
+   "number": 84,
+   "name": "AnalogPerc."
+  },
+  {
+   "value": 85,
+   "number": 85,
+   "name": "LaserWave"
+  },
+  {
+   "value": 86,
+   "number": 86,
+   "name": "Metal SFX 1"
+  },
+  {
+   "value": 87,
+   "number": 87,
+   "name": "Metal SFX 2"
+  },
+  {
+   "value": 88,
+   "number": 88,
+   "name": "Metal SFX 3"
+  },
+  {
+   "value": 89,
+   "number": 89,
+   "name": "Industrial 1"
+  },
+  {
+   "value": 90,
+   "number": 90,
+   "name": "Industrial 2"
+  },
+  {
+   "value": 91,
+   "number": 91,
+   "name": "Industrial 3"
+  },
+  {
+   "value": 92,
+   "number": 92,
+   "name": "OneShotSFX 1"
+  },
+  {
+   "value": 93,
+   "number": 93,
+   "name": "OneShotSFX 2"
+  },
+  {
+   "value": 94,
+   "number": 94,
+   "name": "Long SFX 1"
+  },
+  {
+   "value": 95,
+   "number": 95,
+   "name": "Long SFX 2"
+  },
+  {
+   "value": 96,
+   "number": 96,
+   "name": "SFX & Hit"
+  },
+  {
+   "value": 97,
+   "number": 97,
+   "name": "Forest SFX"
+  },
+  {
+   "value": 98,
+   "number": 98,
+   "name": "GrandBlue 1"
+  },
+  {
+   "value": 99,
+   "number": 99,
+   "name": "GrandBlue 2"
+  }
+ ],
+ "presetPatches": [
+  {
+   "code": "P0101",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 1,
+   "name": "Conga",
+   "bank": 2,
+   "program": 1,
+   "bankMSB": 1,
+   "pc": 0
+  },
+  {
+   "code": "P0102",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 2,
+   "name": "Bongo",
+   "bank": 2,
+   "program": 2,
+   "bankMSB": 1,
+   "pc": 1
+  },
+  {
+   "code": "P0103",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 3,
+   "name": "Timbales",
+   "bank": 2,
+   "program": 3,
+   "bankMSB": 1,
+   "pc": 2
+  },
+  {
+   "code": "P0104",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 4,
+   "name": "LatinToys",
+   "bank": 2,
+   "program": 4,
+   "bankMSB": 1,
+   "pc": 3
+  },
+  {
+   "code": "P0105",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 5,
+   "name": "CONGAbongo",
+   "bank": 2,
+   "program": 5,
+   "bankMSB": 1,
+   "pc": 4
+  },
+  {
+   "code": "P0106",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 6,
+   "name": "TimbaleMix",
+   "bank": 2,
+   "program": 6,
+   "bankMSB": 1,
+   "pc": 5
+  },
+  {
+   "code": "P0107",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 7,
+   "name": "Conga II",
+   "bank": 2,
+   "program": 7,
+   "bankMSB": 1,
+   "pc": 6
+  },
+  {
+   "code": "P0108",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 8,
+   "name": "Bongo II",
+   "bank": 2,
+   "program": 8,
+   "bankMSB": 1,
+   "pc": 7
+  },
+  {
+   "code": "P0109",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 9,
+   "name": "TimbalesII",
+   "bank": 2,
+   "program": 9,
+   "bankMSB": 1,
+   "pc": 8
+  },
+  {
+   "code": "P0110",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 10,
+   "name": "BONGO-BRS-",
+   "bank": 2,
+   "program": 10,
+   "bankMSB": 1,
+   "pc": 9
+  },
+  {
+   "code": "P0111",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 11,
+   "name": "TimbalSong",
+   "bank": 2,
+   "program": 11,
+   "bankMSB": 1,
+   "pc": 10
+  },
+  {
+   "code": "P0112",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 12,
+   "name": "Steel Drum",
+   "bank": 2,
+   "program": 12,
+   "bankMSB": 1,
+   "pc": 11
+  },
+  {
+   "code": "P0113",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 13,
+   "name": "Pandeiro",
+   "bank": 2,
+   "program": 13,
+   "bankMSB": 1,
+   "pc": 12
+  },
+  {
+   "code": "P0114",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 14,
+   "name": "Surdo",
+   "bank": 2,
+   "program": 14,
+   "bankMSB": 1,
+   "pc": 13
+  },
+  {
+   "code": "P0115",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 15,
+   "name": "ESCOLA",
+   "bank": 2,
+   "program": 15,
+   "bankMSB": 1,
+   "pc": 14
+  },
+  {
+   "code": "P0116",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 16,
+   "name": "Berimbau",
+   "bank": 2,
+   "program": 16,
+   "bankMSB": 1,
+   "pc": 15
+  },
+  {
+   "code": "P0117",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 17,
+   "name": "PandeiroII",
+   "bank": 2,
+   "program": 17,
+   "bankMSB": 1,
+   "pc": 16
+  },
+  {
+   "code": "P0118",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 18,
+   "name": "Surdo II",
+   "bank": 2,
+   "program": 18,
+   "bankMSB": 1,
+   "pc": 17
+  },
+  {
+   "code": "P0119",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 19,
+   "name": "Brazil Mix",
+   "bank": 2,
+   "program": 19,
+   "bankMSB": 1,
+   "pc": 18
+  },
+  {
+   "code": "P0120",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 20,
+   "name": "Perc Echos",
+   "bank": 2,
+   "program": 20,
+   "bankMSB": 1,
+   "pc": 19
+  },
+  {
+   "code": "P0121",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 21,
+   "name": "SpaceConga",
+   "bank": 2,
+   "program": 21,
+   "bankMSB": 1,
+   "pc": 20
+  },
+  {
+   "code": "P0122",
+   "group": 1,
+   "groupName": "LATIN",
+   "index": 22,
+   "name": "808 Latin",
+   "bank": 2,
+   "program": 22,
+   "bankMSB": 1,
+   "pc": 21
+  },
+  {
+   "code": "P0201",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 1,
+   "name": "TalkingDrm",
+   "bank": 2,
+   "program": 23,
+   "bankMSB": 1,
+   "pc": 22
+  },
+  {
+   "code": "P0202",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 2,
+   "name": "Djembe S",
+   "bank": 2,
+   "program": 24,
+   "bankMSB": 1,
+   "pc": 23
+  },
+  {
+   "code": "P0203",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 3,
+   "name": "Djembe L",
+   "bank": 2,
+   "program": 25,
+   "bankMSB": 1,
+   "pc": 24
+  },
+  {
+   "code": "P0204",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 4,
+   "name": "Frame Drum",
+   "bank": 2,
+   "program": 26,
+   "bankMSB": 1,
+   "pc": 25
+  },
+  {
+   "code": "P0205",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 5,
+   "name": "Pot Drum",
+   "bank": 2,
+   "program": 27,
+   "bankMSB": 1,
+   "pc": 26
+  },
+  {
+   "code": "P0206",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 6,
+   "name": "Kalimba",
+   "bank": 2,
+   "program": 28,
+   "bankMSB": 1,
+   "pc": 27
+  },
+  {
+   "code": "P0207",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 7,
+   "name": "Log Drum",
+   "bank": 2,
+   "program": 29,
+   "bankMSB": 1,
+   "pc": 28
+  },
+  {
+   "code": "P0208",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 8,
+   "name": "Balaphone",
+   "bank": 2,
+   "program": 30,
+   "bankMSB": 1,
+   "pc": 29
+  },
+  {
+   "code": "P0209",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 9,
+   "name": "Gyilli",
+   "bank": 2,
+   "program": 31,
+   "bankMSB": 1,
+   "pc": 30
+  },
+  {
+   "code": "P0210",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 10,
+   "name": "AfroZither",
+   "bank": 2,
+   "program": 32,
+   "bankMSB": 1,
+   "pc": 31
+  },
+  {
+   "code": "P0211",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 11,
+   "name": "MonguDrum",
+   "bank": 2,
+   "program": 33,
+   "bankMSB": 1,
+   "pc": 32
+  },
+  {
+   "code": "P0212",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 12,
+   "name": "AfricaToys",
+   "bank": 2,
+   "program": 34,
+   "bankMSB": 1,
+   "pc": 33
+  },
+  {
+   "code": "P0213",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 13,
+   "name": "Gyilli&Cng",
+   "bank": 2,
+   "program": 35,
+   "bankMSB": 1,
+   "pc": 34
+  },
+  {
+   "code": "P0214",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 14,
+   "name": "NaturePerc",
+   "bank": 2,
+   "program": 36,
+   "bankMSB": 1,
+   "pc": 35
+  },
+  {
+   "code": "P0215",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 15,
+   "name": "GyliBalaph",
+   "bank": 2,
+   "program": 37,
+   "bankMSB": 1,
+   "pc": 36
+  },
+  {
+   "code": "P0216",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 16,
+   "name": "TalkDrm II",
+   "bank": 2,
+   "program": 38,
+   "bankMSB": 1,
+   "pc": 37
+  },
+  {
+   "code": "P0217",
+   "group": 2,
+   "groupName": "AFRICAN",
+   "index": 17,
+   "name": "PotDrum II",
+   "bank": 2,
+   "program": 39,
+   "bankMSB": 1,
+   "pc": 38
+  },
+  {
+   "code": "P0301",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 1,
+   "name": "Tabla",
+   "bank": 2,
+   "program": 40,
+   "bankMSB": 1,
+   "pc": 39
+  },
+  {
+   "code": "P0302",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 2,
+   "name": "Dholak",
+   "bank": 2,
+   "program": 41,
+   "bankMSB": 1,
+   "pc": 40
+  },
+  {
+   "code": "P0303",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 3,
+   "name": "Madal",
+   "bank": 2,
+   "program": 42,
+   "bankMSB": 1,
+   "pc": 41
+  },
+  {
+   "code": "P0304",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 4,
+   "name": "Dhol",
+   "bank": 2,
+   "program": 43,
+   "bankMSB": 1,
+   "pc": 42
+  },
+  {
+   "code": "P0305",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 5,
+   "name": "DrmOfIndia",
+   "bank": 2,
+   "program": 44,
+   "bankMSB": 1,
+   "pc": 43
+  },
+  {
+   "code": "P0306",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 6,
+   "name": "MadalTalan",
+   "bank": 2,
+   "program": 45,
+   "bankMSB": 1,
+   "pc": 44
+  },
+  {
+   "code": "P0307",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 7,
+   "name": "Tabla II",
+   "bank": 2,
+   "program": 46,
+   "bankMSB": 1,
+   "pc": 45
+  },
+  {
+   "code": "P0308",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 8,
+   "name": "Tabla III",
+   "bank": 2,
+   "program": 47,
+   "bankMSB": 1,
+   "pc": 46
+  },
+  {
+   "code": "P0309",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 9,
+   "name": "TABLATIX",
+   "bank": 2,
+   "program": 48,
+   "bankMSB": 1,
+   "pc": 47
+  },
+  {
+   "code": "P0310",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 10,
+   "name": "Sitar",
+   "bank": 2,
+   "program": 49,
+   "bankMSB": 1,
+   "pc": 48
+  },
+  {
+   "code": "P0311",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 11,
+   "name": "SantoorMaj",
+   "bank": 2,
+   "program": 50,
+   "bankMSB": 1,
+   "pc": 49
+  },
+  {
+   "code": "P0312",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 12,
+   "name": "SantoorMin",
+   "bank": 2,
+   "program": 51,
+   "bankMSB": 1,
+   "pc": 50
+  },
+  {
+   "code": "P0313",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 13,
+   "name": "Tambura",
+   "bank": 2,
+   "program": 52,
+   "bankMSB": 1,
+   "pc": 51
+  },
+  {
+   "code": "P0314",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 14,
+   "name": "Darabukka",
+   "bank": 2,
+   "program": 53,
+   "bankMSB": 1,
+   "pc": 52
+  },
+  {
+   "code": "P0315",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 15,
+   "name": "Rek",
+   "bank": 2,
+   "program": 54,
+   "bankMSB": 1,
+   "pc": 53
+  },
+  {
+   "code": "P0316",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 16,
+   "name": "Doholla",
+   "bank": 2,
+   "program": 55,
+   "bankMSB": 1,
+   "pc": 54
+  },
+  {
+   "code": "P0317",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 17,
+   "name": "Doira",
+   "bank": 2,
+   "program": 56,
+   "bankMSB": 1,
+   "pc": 55
+  },
+  {
+   "code": "P0318",
+   "group": 3,
+   "groupName": "INDIAN",
+   "index": 18,
+   "name": "Turk-Mltry",
+   "bank": 2,
+   "program": 57,
+   "bankMSB": 1,
+   "pc": 56
+  },
+  {
+   "code": "P0401",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 1,
+   "name": "JAPAN",
+   "bank": 2,
+   "program": 58,
+   "bankMSB": 1,
+   "pc": 57
+  },
+  {
+   "code": "P0402",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 2,
+   "name": "MATSURI",
+   "bank": 2,
+   "program": 59,
+   "bankMSB": 1,
+   "pc": 58
+  },
+  {
+   "code": "P0403",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 3,
+   "name": "CHINA",
+   "bank": 2,
+   "program": 60,
+   "bankMSB": 1,
+   "pc": 59
+  },
+  {
+   "code": "P0404",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 4,
+   "name": "Yang Qin",
+   "bank": 2,
+   "program": 61,
+   "bankMSB": 1,
+   "pc": 60
+  },
+  {
+   "code": "P0405",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 5,
+   "name": "Korean4Drm",
+   "bank": 2,
+   "program": 62,
+   "bankMSB": 1,
+   "pc": 61
+  },
+  {
+   "code": "P0406",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 6,
+   "name": "Gamelan",
+   "bank": 2,
+   "program": 63,
+   "bankMSB": 1,
+   "pc": 62
+  },
+  {
+   "code": "P0407",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 7,
+   "name": "JavaGameln",
+   "bank": 2,
+   "program": 64,
+   "bankMSB": 1,
+   "pc": 63
+  },
+  {
+   "code": "P0408",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 8,
+   "name": "BaliGameln",
+   "bank": 2,
+   "program": 65,
+   "bankMSB": 1,
+   "pc": 64
+  },
+  {
+   "code": "P0409",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 9,
+   "name": "Bali&Java",
+   "bank": 2,
+   "program": 66,
+   "bankMSB": 1,
+   "pc": 65
+  },
+  {
+   "code": "P0410",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 10,
+   "name": "Gongs",
+   "bank": 2,
+   "program": 67,
+   "bankMSB": 1,
+   "pc": 66
+  },
+  {
+   "code": "P0411",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 11,
+   "name": "Angklung",
+   "bank": 2,
+   "program": 68,
+   "bankMSB": 1,
+   "pc": 67
+  },
+  {
+   "code": "P0412",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 12,
+   "name": "Bonang",
+   "bank": 2,
+   "program": 69,
+   "bankMSB": 1,
+   "pc": 68
+  },
+  {
+   "code": "P0413",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 13,
+   "name": "Gender",
+   "bank": 2,
+   "program": 70,
+   "bankMSB": 1,
+   "pc": 69
+  },
+  {
+   "code": "P0414",
+   "group": 4,
+   "groupName": "ASIAN",
+   "index": 14,
+   "name": "Saron",
+   "bank": 2,
+   "program": 71,
+   "bankMSB": 1,
+   "pc": 70
+  },
+  {
+   "code": "P0501",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 1,
+   "name": "Vibraphone",
+   "bank": 2,
+   "program": 72,
+   "bankMSB": 1,
+   "pc": 71
+  },
+  {
+   "code": "P0502",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 2,
+   "name": "Glockenspl",
+   "bank": 2,
+   "program": 73,
+   "bankMSB": 1,
+   "pc": 72
+  },
+  {
+   "code": "P0503",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 3,
+   "name": "Xylophone",
+   "bank": 2,
+   "program": 74,
+   "bankMSB": 1,
+   "pc": 73
+  },
+  {
+   "code": "P0504",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 4,
+   "name": "Marimba",
+   "bank": 2,
+   "program": 75,
+   "bankMSB": 1,
+   "pc": 74
+  },
+  {
+   "code": "P0505",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 5,
+   "name": "Bs Marimba",
+   "bank": 2,
+   "program": 76,
+   "bankMSB": 1,
+   "pc": 75
+  },
+  {
+   "code": "P0506",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 6,
+   "name": "TubularBel",
+   "bank": 2,
+   "program": 77,
+   "bankMSB": 1,
+   "pc": 76
+  },
+  {
+   "code": "P0507",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 7,
+   "name": "Timpani",
+   "bank": 2,
+   "program": 78,
+   "bankMSB": 1,
+   "pc": 77
+  },
+  {
+   "code": "P0508",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 8,
+   "name": "Orch Hit",
+   "bank": 2,
+   "program": 79,
+   "bankMSB": 1,
+   "pc": 78
+  },
+  {
+   "code": "P0509",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 9,
+   "name": "LightOrch",
+   "bank": 2,
+   "program": 80,
+   "bankMSB": 1,
+   "pc": 79
+  },
+  {
+   "code": "P0510",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 10,
+   "name": "OrchPerc",
+   "bank": 2,
+   "program": 81,
+   "bankMSB": 1,
+   "pc": 80
+  },
+  {
+   "code": "P0511",
+   "group": 5,
+   "groupName": "ORCH",
+   "index": 11,
+   "name": "Aux Perc",
+   "bank": 2,
+   "program": 82,
+   "bankMSB": 1,
+   "pc": 81
+  },
+  {
+   "code": "P0601",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 1,
+   "name": "Standard",
+   "bank": 2,
+   "program": 83,
+   "bankMSB": 1,
+   "pc": 82
+  },
+  {
+   "code": "P0602",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 2,
+   "name": "Jazzbrush",
+   "bank": 2,
+   "program": 84,
+   "bankMSB": 1,
+   "pc": 83
+  },
+  {
+   "code": "P0603",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 3,
+   "name": "Analog",
+   "bank": 2,
+   "program": 85,
+   "bankMSB": 1,
+   "pc": 84
+  },
+  {
+   "code": "P0604",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 4,
+   "name": "TR-808",
+   "bank": 2,
+   "program": 86,
+   "bankMSB": 1,
+   "pc": 85
+  },
+  {
+   "code": "P0605",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 5,
+   "name": "TR-909",
+   "bank": 2,
+   "program": 87,
+   "bankMSB": 1,
+   "pc": 86
+  },
+  {
+   "code": "P0606",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 6,
+   "name": "Studio",
+   "bank": 2,
+   "program": 88,
+   "bankMSB": 1,
+   "pc": 87
+  },
+  {
+   "code": "P0607",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 7,
+   "name": "Rock Stage",
+   "bank": 2,
+   "program": 89,
+   "bankMSB": 1,
+   "pc": 88
+  },
+  {
+   "code": "P0608",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 8,
+   "name": "Swing",
+   "bank": 2,
+   "program": 90,
+   "bankMSB": 1,
+   "pc": 89
+  },
+  {
+   "code": "P0609",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 9,
+   "name": "Brushes",
+   "bank": 2,
+   "program": 91,
+   "bankMSB": 1,
+   "pc": 90
+  },
+  {
+   "code": "P0610",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 10,
+   "name": "Orch Set",
+   "bank": 2,
+   "program": 92,
+   "bankMSB": 1,
+   "pc": 91
+  },
+  {
+   "code": "P0611",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 11,
+   "name": "Mexi-Set",
+   "bank": 2,
+   "program": 93,
+   "bankMSB": 1,
+   "pc": 92
+  },
+  {
+   "code": "P0612",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 12,
+   "name": "Hi-Boy",
+   "bank": 2,
+   "program": 94,
+   "bankMSB": 1,
+   "pc": 93
+  },
+  {
+   "code": "P0613",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 13,
+   "name": "Low&Dry",
+   "bank": 2,
+   "program": 95,
+   "bankMSB": 1,
+   "pc": 94
+  },
+  {
+   "code": "P0614",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 14,
+   "name": "Jazz Mix",
+   "bank": 2,
+   "program": 96,
+   "bankMSB": 1,
+   "pc": 95
+  },
+  {
+   "code": "P0615",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 15,
+   "name": "JzBrush&Bs",
+   "bank": 2,
+   "program": 97,
+   "bankMSB": 1,
+   "pc": 96
+  },
+  {
+   "code": "P0616",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 16,
+   "name": "BluesClub",
+   "bank": 2,
+   "program": 98,
+   "bankMSB": 1,
+   "pc": 97
+  },
+  {
+   "code": "P0617",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 17,
+   "name": "Drum&Horns",
+   "bank": 2,
+   "program": 99,
+   "bankMSB": 1,
+   "pc": 98
+  },
+  {
+   "code": "P0618",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 18,
+   "name": "TechnoGate",
+   "bank": 2,
+   "program": 100,
+   "bankMSB": 1,
+   "pc": 99
+  },
+  {
+   "code": "P0619",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 19,
+   "name": "FlangeDrms",
+   "bank": 2,
+   "program": 101,
+   "bankMSB": 1,
+   "pc": 100
+  },
+  {
+   "code": "P0620",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 20,
+   "name": "JunkyDrums",
+   "bank": 2,
+   "program": 102,
+   "bankMSB": 1,
+   "pc": 101
+  },
+  {
+   "code": "P0621",
+   "group": 6,
+   "groupName": "DRUMS",
+   "index": 21,
+   "name": "Brush Box",
+   "bank": 2,
+   "program": 103,
+   "bankMSB": 1,
+   "pc": 102
+  },
+  {
+   "code": "P0701",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 1,
+   "name": "Clap&Scrch",
+   "bank": 2,
+   "program": 104,
+   "bankMSB": 1,
+   "pc": 103
+  },
+  {
+   "code": "P0702",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 2,
+   "name": "FILTERED",
+   "bank": 2,
+   "program": 105,
+   "bankMSB": 1,
+   "pc": 104
+  },
+  {
+   "code": "P0703",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 3,
+   "name": "Trash Beat",
+   "bank": 2,
+   "program": 106,
+   "bankMSB": 1,
+   "pc": 105
+  },
+  {
+   "code": "P0704",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 4,
+   "name": "LatinHouse",
+   "bank": 2,
+   "program": 107,
+   "bankMSB": 1,
+   "pc": 106
+  },
+  {
+   "code": "P0705",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 5,
+   "name": "Techey",
+   "bank": 2,
+   "program": 108,
+   "bankMSB": 1,
+   "pc": 107
+  },
+  {
+   "code": "P0706",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 6,
+   "name": "TechDance",
+   "bank": 2,
+   "program": 109,
+   "bankMSB": 1,
+   "pc": 108
+  },
+  {
+   "code": "P0707",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 7,
+   "name": "EthniDance",
+   "bank": 2,
+   "program": 110,
+   "bankMSB": 1,
+   "pc": 109
+  },
+  {
+   "code": "P0708",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 8,
+   "name": "Cosmo 21",
+   "bank": 2,
+   "program": 111,
+   "bankMSB": 1,
+   "pc": 110
+  },
+  {
+   "code": "P0709",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 9,
+   "name": "Industrial",
+   "bank": 2,
+   "program": 112,
+   "bankMSB": 1,
+   "pc": 111
+  },
+  {
+   "code": "P0710",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 10,
+   "name": "UndaGround",
+   "bank": 2,
+   "program": 113,
+   "bankMSB": 1,
+   "pc": 112
+  },
+  {
+   "code": "P0711",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 11,
+   "name": "StreetBeat",
+   "bank": 2,
+   "program": 114,
+   "bankMSB": 1,
+   "pc": 113
+  },
+  {
+   "code": "P0712",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 12,
+   "name": "909-2000",
+   "bank": 2,
+   "program": 115,
+   "bankMSB": 1,
+   "pc": 114
+  },
+  {
+   "code": "P0713",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 13,
+   "name": "AlienDance",
+   "bank": 2,
+   "program": 116,
+   "bankMSB": 1,
+   "pc": 115
+  },
+  {
+   "code": "P0714",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 14,
+   "name": "TechNow",
+   "bank": 2,
+   "program": 117,
+   "bankMSB": 1,
+   "pc": 116
+  },
+  {
+   "code": "P0715",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 15,
+   "name": "Sweep 808",
+   "bank": 2,
+   "program": 118,
+   "bankMSB": 1,
+   "pc": 117
+  },
+  {
+   "code": "P0716",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 16,
+   "name": "Revolution",
+   "bank": 2,
+   "program": 119,
+   "bankMSB": 1,
+   "pc": 118
+  },
+  {
+   "code": "P0717",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 17,
+   "name": "Backbeat",
+   "bank": 2,
+   "program": 120,
+   "bankMSB": 1,
+   "pc": 119
+  },
+  {
+   "code": "P0718",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 18,
+   "name": "AmberWater",
+   "bank": 2,
+   "program": 121,
+   "bankMSB": 1,
+   "pc": 120
+  },
+  {
+   "code": "P0719",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 19,
+   "name": "SynthDrums",
+   "bank": 2,
+   "program": 122,
+   "bankMSB": 1,
+   "pc": 121
+  },
+  {
+   "code": "P0720",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 20,
+   "name": "Discotica",
+   "bank": 2,
+   "program": 123,
+   "bankMSB": 1,
+   "pc": 122
+  },
+  {
+   "code": "P0721",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 21,
+   "name": "Dance 6",
+   "bank": 2,
+   "program": 124,
+   "bankMSB": 1,
+   "pc": 123
+  },
+  {
+   "code": "P0722",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 22,
+   "name": "Lock Out",
+   "bank": 2,
+   "program": 125,
+   "bankMSB": 1,
+   "pc": 124
+  },
+  {
+   "code": "P0723",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 23,
+   "name": "DanceMenu1",
+   "bank": 2,
+   "program": 126,
+   "bankMSB": 1,
+   "pc": 125
+  },
+  {
+   "code": "P0724",
+   "group": 7,
+   "groupName": "DANCE",
+   "index": 24,
+   "name": "DanceMenu2",
+   "bank": 2,
+   "program": 127,
+   "bankMSB": 1,
+   "pc": 126
+  },
+  {
+   "code": "P0801",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 1,
+   "name": "PsycoDrama",
+   "bank": 2,
+   "program": 128,
+   "bankMSB": 1,
+   "pc": 127
+  },
+  {
+   "code": "P0802",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 2,
+   "name": "Forest",
+   "bank": 3,
+   "program": 1,
+   "bankMSB": 2,
+   "pc": 0
+  },
+  {
+   "code": "P0803",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 3,
+   "name": "GrandBlue",
+   "bank": 3,
+   "program": 2,
+   "bankMSB": 2,
+   "pc": 1
+  },
+  {
+   "code": "P0804",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 4,
+   "name": "NoiseSonic",
+   "bank": 3,
+   "program": 3,
+   "bankMSB": 2,
+   "pc": 2
+  },
+  {
+   "code": "P0805",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 5,
+   "name": "ArpegPerc",
+   "bank": 3,
+   "program": 4,
+   "bankMSB": 2,
+   "pc": 3
+  },
+  {
+   "code": "P0806",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 6,
+   "name": "CartoonFX",
+   "bank": 3,
+   "program": 5,
+   "bankMSB": 2,
+   "pc": 4
+  },
+  {
+   "code": "P0807",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 7,
+   "name": "Silly FX",
+   "bank": 3,
+   "program": 6,
+   "bankMSB": 2,
+   "pc": 5
+  },
+  {
+   "code": "P0808",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 8,
+   "name": "Rol&FiltMe",
+   "bank": 3,
+   "program": 7,
+   "bankMSB": 2,
+   "pc": 6
+  },
+  {
+   "code": "P0809",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 9,
+   "name": "MetalMania",
+   "bank": 3,
+   "program": 8,
+   "bankMSB": 2,
+   "pc": 7
+  },
+  {
+   "code": "P0810",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 10,
+   "name": "ChaosSoniq",
+   "bank": 3,
+   "program": 9,
+   "bankMSB": 2,
+   "pc": 8
+  },
+  {
+   "code": "P0811",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 11,
+   "name": "SFX Menu 1",
+   "bank": 3,
+   "program": 10,
+   "bankMSB": 2,
+   "pc": 9
+  },
+  {
+   "code": "P0812",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 12,
+   "name": "SFX Menu 2",
+   "bank": 3,
+   "program": 11,
+   "bankMSB": 2,
+   "pc": 10
+  },
+  {
+   "code": "P0813",
+   "group": 8,
+   "groupName": "SFX",
+   "index": 13,
+   "name": "SFX Menu 3",
+   "bank": 3,
+   "program": 12,
+   "bankMSB": 2,
+   "pc": 11
+  },
+  {
+   "code": "P0901",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 1,
+   "name": "Laserwave",
+   "bank": 3,
+   "program": 13,
+   "bankMSB": 2,
+   "pc": 12
+  },
+  {
+   "code": "P0902",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 2,
+   "name": "Heavy Gtr",
+   "bank": 3,
+   "program": 14,
+   "bankMSB": 2,
+   "pc": 13
+  },
+  {
+   "code": "P0903",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 3,
+   "name": "Acous Bass",
+   "bank": 3,
+   "program": 15,
+   "bankMSB": 2,
+   "pc": 14
+  },
+  {
+   "code": "P0904",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 4,
+   "name": "SH101 Bass",
+   "bank": 3,
+   "program": 16,
+   "bankMSB": 2,
+   "pc": 15
+  },
+  {
+   "code": "P0905",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 5,
+   "name": "Flute",
+   "bank": 3,
+   "program": 17,
+   "bankMSB": 2,
+   "pc": 16
+  },
+  {
+   "code": "P0906",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 6,
+   "name": "Syn String",
+   "bank": 3,
+   "program": 18,
+   "bankMSB": 2,
+   "pc": 17
+  },
+  {
+   "code": "P0907",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 7,
+   "name": "Saw Wave",
+   "bank": 3,
+   "program": 19,
+   "bankMSB": 2,
+   "pc": 18
+  },
+  {
+   "code": "P0908",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 8,
+   "name": "Juno Rave",
+   "bank": 3,
+   "program": 20,
+   "bankMSB": 2,
+   "pc": 19
+  },
+  {
+   "code": "P0909",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 9,
+   "name": "Fantasia",
+   "bank": 3,
+   "program": 21,
+   "bankMSB": 2,
+   "pc": 20
+  },
+  {
+   "code": "P0910",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 10,
+   "name": "Thick Pad",
+   "bank": 3,
+   "program": 22,
+   "bankMSB": 2,
+   "pc": 21
+  },
+  {
+   "code": "P0911",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 11,
+   "name": "Calliope",
+   "bank": 3,
+   "program": 23,
+   "bankMSB": 2,
+   "pc": 22
+  },
+  {
+   "code": "P0912",
+   "group": 9,
+   "groupName": "OTHERS",
+   "index": 12,
+   "name": "Melody-808",
+   "bank": 3,
+   "program": 24,
+   "bankMSB": 2,
+   "pc": 23
+  },
+  {
+   "code": "P1001",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 1,
+   "name": "Latin Loop",
+   "bank": 3,
+   "program": 25,
+   "bankMSB": 2,
+   "pc": 24
+  },
+  {
+   "code": "P1002",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 2,
+   "name": "Samba Loop",
+   "bank": 3,
+   "program": 26,
+   "bankMSB": 2,
+   "pc": 25
+  },
+  {
+   "code": "P1003",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 3,
+   "name": "AfricaLoop",
+   "bank": 3,
+   "program": 27,
+   "bankMSB": 2,
+   "pc": 26
+  },
+  {
+   "code": "P1004",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 4,
+   "name": "IndianLoop",
+   "bank": 3,
+   "program": 28,
+   "bankMSB": 2,
+   "pc": 27
+  },
+  {
+   "code": "P1005",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 5,
+   "name": "Asian Loop",
+   "bank": 3,
+   "program": 29,
+   "bankMSB": 2,
+   "pc": 28
+  },
+  {
+   "code": "P1006",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 6,
+   "name": "FusionLoop",
+   "bank": 3,
+   "program": 30,
+   "bankMSB": 2,
+   "pc": 29
+  },
+  {
+   "code": "P1007",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 7,
+   "name": "Dance Loop",
+   "bank": 3,
+   "program": 31,
+   "bankMSB": 2,
+   "pc": 30
+  },
+  {
+   "code": "P1008",
+   "group": 10,
+   "groupName": "LOOPS",
+   "index": 8,
+   "name": "Shot & Tap",
+   "bank": 3,
+   "program": 32,
+   "bankMSB": 2,
+   "pc": 31
+  }
+ ],
+ "userPatches": [
+  {
+   "code": "U0101",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 1,
+   "pc": 0,
+   "address": "12 00 00 00"
+  },
+  {
+   "code": "U0102",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 2,
+   "pc": 1,
+   "address": "12 01 00 00"
+  },
+  {
+   "code": "U0103",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 3,
+   "pc": 2,
+   "address": "12 02 00 00"
+  },
+  {
+   "code": "U0104",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 4,
+   "pc": 3,
+   "address": "12 03 00 00"
+  },
+  {
+   "code": "U0105",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 5,
+   "pc": 4,
+   "address": "12 04 00 00"
+  },
+  {
+   "code": "U0106",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 6,
+   "pc": 5,
+   "address": "12 05 00 00"
+  },
+  {
+   "code": "U0107",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 7,
+   "pc": 6,
+   "address": "12 06 00 00"
+  },
+  {
+   "code": "U0108",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 8,
+   "pc": 7,
+   "address": "12 07 00 00"
+  },
+  {
+   "code": "U0201",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 9,
+   "pc": 8,
+   "address": "12 08 00 00"
+  },
+  {
+   "code": "U0202",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 10,
+   "pc": 9,
+   "address": "12 09 00 00"
+  },
+  {
+   "code": "U0203",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 11,
+   "pc": 10,
+   "address": "12 0A 00 00"
+  },
+  {
+   "code": "U0204",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 12,
+   "pc": 11,
+   "address": "12 0B 00 00"
+  },
+  {
+   "code": "U0205",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 13,
+   "pc": 12,
+   "address": "12 0C 00 00"
+  },
+  {
+   "code": "U0206",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 14,
+   "pc": 13,
+   "address": "12 0D 00 00"
+  },
+  {
+   "code": "U0207",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 15,
+   "pc": 14,
+   "address": "12 0E 00 00"
+  },
+  {
+   "code": "U0208",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 16,
+   "pc": 15,
+   "address": "12 0F 00 00"
+  },
+  {
+   "code": "U0301",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 17,
+   "pc": 16,
+   "address": "12 10 00 00"
+  },
+  {
+   "code": "U0302",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 18,
+   "pc": 17,
+   "address": "12 11 00 00"
+  },
+  {
+   "code": "U0303",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 19,
+   "pc": 18,
+   "address": "12 12 00 00"
+  },
+  {
+   "code": "U0304",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 20,
+   "pc": 19,
+   "address": "12 13 00 00"
+  },
+  {
+   "code": "U0305",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 21,
+   "pc": 20,
+   "address": "12 14 00 00"
+  },
+  {
+   "code": "U0306",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 22,
+   "pc": 21,
+   "address": "12 15 00 00"
+  },
+  {
+   "code": "U0307",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 23,
+   "pc": 22,
+   "address": "12 16 00 00"
+  },
+  {
+   "code": "U0308",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 24,
+   "pc": 23,
+   "address": "12 17 00 00"
+  },
+  {
+   "code": "U0401",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 25,
+   "pc": 24,
+   "address": "12 18 00 00"
+  },
+  {
+   "code": "U0402",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 26,
+   "pc": 25,
+   "address": "12 19 00 00"
+  },
+  {
+   "code": "U0403",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 27,
+   "pc": 26,
+   "address": "12 1A 00 00"
+  },
+  {
+   "code": "U0404",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 28,
+   "pc": 27,
+   "address": "12 1B 00 00"
+  },
+  {
+   "code": "U0405",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 29,
+   "pc": 28,
+   "address": "12 1C 00 00"
+  },
+  {
+   "code": "U0406",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 30,
+   "pc": 29,
+   "address": "12 1D 00 00"
+  },
+  {
+   "code": "U0407",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 31,
+   "pc": 30,
+   "address": "12 1E 00 00"
+  },
+  {
+   "code": "U0408",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 32,
+   "pc": 31,
+   "address": "12 1F 00 00"
+  },
+  {
+   "code": "U0501",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 33,
+   "pc": 32,
+   "address": "12 20 00 00"
+  },
+  {
+   "code": "U0502",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 34,
+   "pc": 33,
+   "address": "12 21 00 00"
+  },
+  {
+   "code": "U0503",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 35,
+   "pc": 34,
+   "address": "12 22 00 00"
+  },
+  {
+   "code": "U0504",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 36,
+   "pc": 35,
+   "address": "12 23 00 00"
+  },
+  {
+   "code": "U0505",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 37,
+   "pc": 36,
+   "address": "12 24 00 00"
+  },
+  {
+   "code": "U0506",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 38,
+   "pc": 37,
+   "address": "12 25 00 00"
+  },
+  {
+   "code": "U0507",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 39,
+   "pc": 38,
+   "address": "12 26 00 00"
+  },
+  {
+   "code": "U0508",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 40,
+   "pc": 39,
+   "address": "12 27 00 00"
+  },
+  {
+   "code": "U0601",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 41,
+   "pc": 40,
+   "address": "12 28 00 00"
+  },
+  {
+   "code": "U0602",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 42,
+   "pc": 41,
+   "address": "12 29 00 00"
+  },
+  {
+   "code": "U0603",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 43,
+   "pc": 42,
+   "address": "12 2A 00 00"
+  },
+  {
+   "code": "U0604",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 44,
+   "pc": 43,
+   "address": "12 2B 00 00"
+  },
+  {
+   "code": "U0605",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 45,
+   "pc": 44,
+   "address": "12 2C 00 00"
+  },
+  {
+   "code": "U0606",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 46,
+   "pc": 45,
+   "address": "12 2D 00 00"
+  },
+  {
+   "code": "U0607",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 47,
+   "pc": 46,
+   "address": "12 2E 00 00"
+  },
+  {
+   "code": "U0608",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 48,
+   "pc": 47,
+   "address": "12 2F 00 00"
+  },
+  {
+   "code": "U0701",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 49,
+   "pc": 48,
+   "address": "12 30 00 00"
+  },
+  {
+   "code": "U0702",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 50,
+   "pc": 49,
+   "address": "12 31 00 00"
+  },
+  {
+   "code": "U0703",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 51,
+   "pc": 50,
+   "address": "12 32 00 00"
+  },
+  {
+   "code": "U0704",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 52,
+   "pc": 51,
+   "address": "12 33 00 00"
+  },
+  {
+   "code": "U0705",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 53,
+   "pc": 52,
+   "address": "12 34 00 00"
+  },
+  {
+   "code": "U0706",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 54,
+   "pc": 53,
+   "address": "12 35 00 00"
+  },
+  {
+   "code": "U0707",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 55,
+   "pc": 54,
+   "address": "12 36 00 00"
+  },
+  {
+   "code": "U0708",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 56,
+   "pc": 55,
+   "address": "12 37 00 00"
+  },
+  {
+   "code": "U0801",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 57,
+   "pc": 56,
+   "address": "12 38 00 00"
+  },
+  {
+   "code": "U0802",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 58,
+   "pc": 57,
+   "address": "12 39 00 00"
+  },
+  {
+   "code": "U0803",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 59,
+   "pc": 58,
+   "address": "12 3A 00 00"
+  },
+  {
+   "code": "U0804",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 60,
+   "pc": 59,
+   "address": "12 3B 00 00"
+  },
+  {
+   "code": "U0805",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 61,
+   "pc": 60,
+   "address": "12 3C 00 00"
+  },
+  {
+   "code": "U0806",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 62,
+   "pc": 61,
+   "address": "12 3D 00 00"
+  },
+  {
+   "code": "U0807",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 63,
+   "pc": 62,
+   "address": "12 3E 00 00"
+  },
+  {
+   "code": "U0808",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 64,
+   "pc": 63,
+   "address": "12 3F 00 00"
+  },
+  {
+   "code": "U0901",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 65,
+   "pc": 64,
+   "address": "12 40 00 00"
+  },
+  {
+   "code": "U0902",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 66,
+   "pc": 65,
+   "address": "12 41 00 00"
+  },
+  {
+   "code": "U0903",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 67,
+   "pc": 66,
+   "address": "12 42 00 00"
+  },
+  {
+   "code": "U0904",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 68,
+   "pc": 67,
+   "address": "12 43 00 00"
+  },
+  {
+   "code": "U0905",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 69,
+   "pc": 68,
+   "address": "12 44 00 00"
+  },
+  {
+   "code": "U0906",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 70,
+   "pc": 69,
+   "address": "12 45 00 00"
+  },
+  {
+   "code": "U0907",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 71,
+   "pc": 70,
+   "address": "12 46 00 00"
+  },
+  {
+   "code": "U0908",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 72,
+   "pc": 71,
+   "address": "12 47 00 00"
+  },
+  {
+   "code": "U1001",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 73,
+   "pc": 72,
+   "address": "12 48 00 00"
+  },
+  {
+   "code": "U1002",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 74,
+   "pc": 73,
+   "address": "12 49 00 00"
+  },
+  {
+   "code": "U1003",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 75,
+   "pc": 74,
+   "address": "12 4A 00 00"
+  },
+  {
+   "code": "U1004",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 76,
+   "pc": 75,
+   "address": "12 4B 00 00"
+  },
+  {
+   "code": "U1005",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 77,
+   "pc": 76,
+   "address": "12 4C 00 00"
+  },
+  {
+   "code": "U1006",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 78,
+   "pc": 77,
+   "address": "12 4D 00 00"
+  },
+  {
+   "code": "U1007",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 79,
+   "pc": 78,
+   "address": "12 4E 00 00"
+  },
+  {
+   "code": "U1008",
+   "bank": 1,
+   "bankMSB": 0,
+   "program": 80,
+   "pc": 79,
+   "address": "12 4F 00 00"
+  }
+ ]
+}
